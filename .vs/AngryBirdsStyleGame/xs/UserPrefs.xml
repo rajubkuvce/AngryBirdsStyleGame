@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{EA5B8EC4-4914-070D-6F66-E3A301723FCC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/GoKit/properties/splines/GoSpline.cs">
+    <Files>
+      <File FileName="Assets/Plugins/GoKit/properties/splines/GoSpline.cs" Line="62" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="AngryBirdsStyleGame" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="10e40651-e72c-44c1-ac42-eb723cd7d4d5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
